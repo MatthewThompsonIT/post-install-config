@@ -17,14 +17,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Allow Anyone to Create a Ticket
-- Configure Roles (for grouping permissions)
-- Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
-- Configure Teams
-- Configure Agents (workers)
-- Configure Users (customers)
-- Configure SLA
-- Configure Help Topics (For when users create a ticket)
+- [Allow Anyone to Create a Ticket](https://github.com/MatthewThompsonIT/post-install-config/blob/main/README.md#allow-anyone-to-create-a-ticket)
+- [Configure Roles (for grouping permissions)](https://github.com/MatthewThompsonIT/post-install-config/blob/main/README.md#configure-roles-for-grouping-permissions)
+- [Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)](https://github.com/MatthewThompsonIT/post-install-config/blob/main/README.md#configure-departments-ticket-visibility-help-desk-vs-sysadmins-vs-networking)
+- [Configure Teams](https://github.com/MatthewThompsonIT/post-install-config/blob/main/README.md#configure-teams)
+- [Configure Agents (workers)](https://github.com/MatthewThompsonIT/post-install-config/blob/main/README.md#configure-agents-workers)
+- [Configure Users (customers)](https://github.com/MatthewThompsonIT/post-install-config/blob/main/README.md#configure-users-customers)
+- [Configure SLA](https://github.com/MatthewThompsonIT/post-install-config/blob/main/README.md#configure-sla)
+- [Configure Help Topics (For when users create a ticket)](https://github.com/MatthewThompsonIT/post-install-config/blob/main/README.md#configure-help-topics-for-when-users-create-a-ticket)
 
 >[!NOTE]
 > The Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php 
