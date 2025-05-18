@@ -81,6 +81,23 @@ This tutorial outlines the post-install configuration of the open-source help de
 - (Ignore the "Access" tab for now, we dont have any agents to add yet)
 - Click "Create Dept"
 
+<h3>Delete Maintenance Department</h3>
+
+- Lets Delete the "Maintenance" Department (It's not needed and tickets get auto assigned to it later)
+- Go back to the Admin Panel
+- Click on "Agents"
+- Click on "Departments"
+  - Check the box next to "Maintenance"
+
+![image](https://github.com/user-attachments/assets/30cd1f0c-91c8-4bc1-877f-c08b6812ba5a)
+
+  - Click the "More" Wheel in the top right
+  - Click on "Delete"
+  - Click "Yes. Do It!"
+
+![image](https://github.com/user-attachments/assets/de8a0740-3da6-4367-a6dc-92ba6f6db601)
+
+
 <h2>Configure Teams</h2>
 
 - Go back to the Admin Panel
